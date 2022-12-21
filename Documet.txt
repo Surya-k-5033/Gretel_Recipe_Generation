@@ -1,0 +1,4 @@
+Gretel Website - https://gretel.ai/synthetics
+
+Github: https - //github.com/gretelai/fun-with-synthetic-data
+
